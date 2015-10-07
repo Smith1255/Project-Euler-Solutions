@@ -1,3 +1,5 @@
+#Andrew Smith
+#Apr 29 2015
 import math 
 counter = 333
 c = []
