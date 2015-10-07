@@ -1,5 +1,5 @@
 #Andrew Smith
-#Dec 30 2013
+#Feb 21 2015
 import time
 def palindrome():
 	hank = True
