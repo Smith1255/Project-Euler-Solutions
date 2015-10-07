@@ -1,3 +1,5 @@
+#Andrew Smith
+#Feb 22 2015
 tnum = 0
 nnum = 0
 
