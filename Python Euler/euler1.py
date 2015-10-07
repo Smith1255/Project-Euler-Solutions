@@ -1,3 +1,5 @@
+#Andrew Smith
+#Jan  2  2014
 total = 0
 x = 3
 while x < 1000: 
