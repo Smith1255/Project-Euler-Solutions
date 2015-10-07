@@ -1,3 +1,5 @@
+#Andrew Smith
+#December 30 2013
 total = 0
 a = 1
 b = 1
