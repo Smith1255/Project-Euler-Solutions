@@ -1,3 +1,5 @@
+#Andrew Smith
+#Feb 22 2015
 num = 20
 one_twenty = 20
 while one_twenty > 0
