@@ -1,3 +1,5 @@
+#Andrew Smith
+#Dec 30 2013
 from time import time
 from math import sqrt
 x = int(raw_input("Enter any value to find it's largest prime factor: "))
