@@ -1,3 +1,5 @@
+#Andrew Smith
+#April 29 2013
 num_prime = 2
 num_count = 4
 import time;
